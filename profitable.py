@@ -1,5 +1,10 @@
 
-# -*- coding: utf-8 -*-
+# This is a Web server with next features:
+# 1. View Portfolio structure in Pies
+# 2. Portfolio view in details - Histogram view for every instrument
+# 3. Today trades
+# 4. Estimate trading efficiently
+
 import os
 import time
 import dash
